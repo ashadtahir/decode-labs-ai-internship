@@ -20,7 +20,7 @@ A basic supervised learning classification project using the Iris dataset, featu
 
 **Technologies:** Python, scikit-learn
 
-**Final Accuracy:** 100%
+**Test Accuracy:** 100%
 
 **F1 Score:** 1.0000
 
