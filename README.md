@@ -28,6 +28,20 @@ A basic supervised learning classification project using the Iris dataset, featu
 
 ---
 
+### Project 3 — AI Recommendation Logic
+
+A simple content-based recommendation system that recommends career roles based on a user's technical skills using TF-IDF and cosine similarity.
+
+**Technologies:** Python, pandas, scikit-learn
+
+**Example Input:** Python, Cloud Computing, Automation
+
+**Top Recommendation:** DevOps Engineer
+
+📁 [View Project 3](./Project-3-AI-Recommendation/)
+
+---
+
 ## Internship
 
 **Organization:** Decode Labs
