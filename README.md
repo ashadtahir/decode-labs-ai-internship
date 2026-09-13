@@ -64,8 +64,4 @@ A basic OCR system that recognizes text from an image using OpenCV and Tesseract
 **Track:** Artificial Intelligence
 **Role:** Artificial Intelligence Intern
 
-This repository will be updated with additional projects completed during the internship.
 
----
-
-More projects will be added as the internship progresses.
