@@ -42,6 +42,22 @@ A simple content-based recommendation system that recommends career roles based 
 
 ---
 
+### Project 4 — Image / Text Recognition
+
+A basic OCR system that recognizes text from an image using OpenCV and Tesseract.
+
+**Technologies:** Python, OpenCV, pytesseract, Pillow
+
+**Pipeline:** Grayscale → Gaussian Blur → Deskewing → Adaptive Thresholding → OCR
+
+**Result:** 95.50% OCR Confidence — PASS (80% required)
+
+**Example Input:** DecodeLabs AI Internship / Project 4 / Image Text Recognition
+
+📁 [View Project 4](./Project-4-Image-Text-Recognition/)
+
+---
+
 ## Internship
 
 **Organization:** Decode Labs
@@ -52,4 +68,4 @@ This repository will be updated with additional projects completed during the in
 
 ---
 
-More projects coming soon. 🚀
+More projects will be added as the internship progresses.
